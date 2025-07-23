@@ -71,4 +71,3 @@ Contributions welcome! Please check out our [contribution guidelines](CONTRIBUTI
 
 ## License
 MIT
-# Distributed-Log-Querier

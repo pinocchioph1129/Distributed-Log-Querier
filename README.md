@@ -39,7 +39,16 @@ docker compose up --build
 
 ## Usage
 ```bash
+# To generate the log files
+python3 generate_logs.py
 
+# After running the client, the terminal should have the output below
+What would you like to do? (type 'exit' to quit)
+1. Run grep on all log files
+2. Run grep on a specific log file
+3. Exit
+
+# Enter 1, 2, or 3
 ```
 
 ## Architecture

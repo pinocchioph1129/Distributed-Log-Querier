@@ -1,0 +1,500 @@
+[INFO] User zach imported data.csv at 2025-07-15 00:00:00
+[INFO] User bob accessed dashboard at 2025-07-15 00:00:10
+[INFO] User judy triggered security alert at 2025-07-15 00:00:20
+[INFO] Server 7 updated configuration at 2025-07-15 00:00:30
+[DEBUG] User niaj performed system health check at 2025-07-15 00:00:40
+[WARN] Server 7 completed log rotation at 2025-07-15 00:00:50
+[ERROR] User oscar deleted file temp.tmp at 2025-07-15 00:01:00
+[ERROR] User trent uploaded file report.pdf at 2025-07-15 00:01:10
+[DEBUG] User walter changed password at 2025-07-15 00:01:20
+[DEBUG] Server 7 started at 2025-07-15 00:01:30
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:01:40
+[DEBUG] User dave accessed dashboard at 2025-07-15 00:01:50
+[DEBUG] User niaj updated profile at 2025-07-15 00:02:00
+[WARN] Backup started at 2025-07-15 00:02:10
+[WARN] Backup started at 2025-07-15 00:02:20
+[DEBUG] Server 7 started at 2025-07-15 00:02:30
+[ERROR] User oscar deleted file temp.tmp at 2025-07-15 00:02:40
+[DEBUG] Backup completed at 2025-07-15 00:02:50
+[DEBUG] User rupert failed login attempt at 2025-07-15 00:03:00
+[DEBUG] Backup started at 2025-07-15 00:03:10
+[INFO] Disk error on /dev/sda7 at 2025-07-15 00:03:20
+[INFO] User rupert logged out at 2025-07-15 00:03:30
+[INFO] Server 7 encountered memory leak at 2025-07-15 00:03:40
+[ERROR] Server 7 updated configuration at 2025-07-15 00:03:50
+[DEBUG] Server 7 updated configuration at 2025-07-15 00:04:00
+[INFO] Server 7 shutdown at 2025-07-15 00:04:10
+[WARN] User sybil changed password at 2025-07-15 00:04:20
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:04:30
+[DEBUG] User oscar logged out at 2025-07-15 00:04:40
+[WARN] Server 7 received request from 10.0.0.214 at 2025-07-15 00:04:50
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:05:00
+[INFO] User mallory accessed dashboard at 2025-07-15 00:05:10
+[INFO] Server 7 started at 2025-07-15 00:05:20
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:05:30
+[WARN] User carol triggered security alert at 2025-07-15 00:05:40
+[INFO] High CPU usage detected at 2025-07-15 00:05:50
+[DEBUG] User walter updated profile at 2025-07-15 00:06:00
+[DEBUG] User sybil accessed dashboard at 2025-07-15 00:06:10
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:06:20
+[DEBUG] User rupert updated profile at 2025-07-15 00:06:30
+[WARN] Server 7 completed log rotation at 2025-07-15 00:06:40
+[INFO] Server 7 completed log rotation at 2025-07-15 00:06:50
+[DEBUG] User trent uploaded file report.pdf at 2025-07-15 00:07:00
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:07:10
+[INFO] High CPU usage detected at 2025-07-15 00:07:20
+[DEBUG] User walter failed login attempt at 2025-07-15 00:07:30
+[ERROR] User oscar changed password at 2025-07-15 00:07:40
+[INFO] User alice imported data.csv at 2025-07-15 00:07:50
+[WARN] Server 7 started at 2025-07-15 00:08:00
+[INFO] Server 7 heartbeat OK at 2025-07-15 00:08:10
+[WARN] Server 7 updated configuration at 2025-07-15 00:08:20
+[INFO] User niaj triggered security alert at 2025-07-15 00:08:30
+[INFO] User peggy imported data.csv at 2025-07-15 00:08:40
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:08:50
+[WARN] Server 7 shutdown at 2025-07-15 00:09:00
+[WARN] Backup started at 2025-07-15 00:09:10
+[WARN] Backup completed at 2025-07-15 00:09:20
+[INFO] Server 7 shutdown at 2025-07-15 00:09:30
+[INFO] Server 7 started at 2025-07-15 00:09:40
+[WARN] Server 7 encountered memory leak at 2025-07-15 00:09:50
+[ERROR] User judy accessed dashboard at 2025-07-15 00:10:00
+[WARN] User sybil initiated data export at 2025-07-15 00:10:10
+[WARN] High CPU usage detected at 2025-07-15 00:10:20
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:10:30
+[ERROR] Server 7 encountered memory leak at 2025-07-15 00:10:40
+[DEBUG] User alice accessed dashboard at 2025-07-15 00:10:50
+[INFO] User zach accessed dashboard at 2025-07-15 00:11:00
+[DEBUG] User judy updated profile at 2025-07-15 00:11:10
+[DEBUG] User eve changed password at 2025-07-15 00:11:20
+[INFO] User peggy updated profile at 2025-07-15 00:11:30
+[ERROR] User eve logged out at 2025-07-15 00:11:40
+[ERROR] Backup started at 2025-07-15 00:11:50
+[INFO] User oscar accessed dashboard at 2025-07-15 00:12:00
+[DEBUG] Server 7 shutdown at 2025-07-15 00:12:10
+[DEBUG] Server 7 completed log rotation at 2025-07-15 00:12:20
+[INFO] User bob deleted file temp.tmp at 2025-07-15 00:12:30
+[WARN] Server 7 restarted at 2025-07-15 00:12:40
+[ERROR] User dave initiated data export at 2025-07-15 00:12:50
+[WARN] User trent updated profile at 2025-07-15 00:13:00
+[INFO] User zach performed system health check at 2025-07-15 00:13:10
+[WARN] User rupert uploaded file report.pdf at 2025-07-15 00:13:20
+[WARN] User sybil performed system health check at 2025-07-15 00:13:30
+[ERROR] Server 7 received request from 10.0.0.216 at 2025-07-15 00:13:40
+[INFO] User sybil logged out at 2025-07-15 00:13:50
+[WARN] User grace uploaded file report.pdf at 2025-07-15 00:14:00
+[WARN] Server 7 updated configuration at 2025-07-15 00:14:10
+[WARN] User mallory logged in at 2025-07-15 00:14:20
+[DEBUG] User trent triggered security alert at 2025-07-15 00:14:30
+[WARN] User mallory accessed dashboard at 2025-07-15 00:14:40
+[WARN] Query executed: SELECT * FROM logs WHERE user='walter' at 2025-07-15 00:14:50
+[DEBUG] User walter accessed dashboard at 2025-07-15 00:15:00
+[INFO] Server 7 completed log rotation at 2025-07-15 00:15:10
+[INFO] User walter accessed dashboard at 2025-07-15 00:15:20
+[WARN] Server 7 completed log rotation at 2025-07-15 00:15:30
+[DEBUG] User bob triggered security alert at 2025-07-15 00:15:40
+[WARN] User yvonne logged in at 2025-07-15 00:15:50
+[WARN] User heidi accessed dashboard at 2025-07-15 00:16:00
+[ERROR] Backup completed at 2025-07-15 00:16:10
+[ERROR] User grace updated profile at 2025-07-15 00:16:20
+[INFO] Server 7 received request from 10.0.0.227 at 2025-07-15 00:16:30
+[INFO] User victor uploaded file report.pdf at 2025-07-15 00:16:40
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='rupert' at 2025-07-15 00:16:50
+[ERROR] Server 7 updated configuration at 2025-07-15 00:17:00
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:17:10
+[WARN] Server 7 restarted at 2025-07-15 00:17:20
+[ERROR] Server 7 completed log rotation at 2025-07-15 00:17:30
+[WARN] Backup completed at 2025-07-15 00:17:40
+[WARN] High CPU usage detected at 2025-07-15 00:17:50
+[DEBUG] Backup started at 2025-07-15 00:18:00
+[DEBUG] Disk error on /dev/sda7 at 2025-07-15 00:18:10
+[ERROR] User judy initiated data export at 2025-07-15 00:18:20
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='ivan' at 2025-07-15 00:18:30
+[ERROR] Server 7 updated configuration at 2025-07-15 00:18:40
+[ERROR] User mallory logged out at 2025-07-15 00:18:50
+[WARN] Backup started at 2025-07-15 00:19:00
+[WARN] Server 7 heartbeat OK at 2025-07-15 00:19:10
+[DEBUG] Disk error on /dev/sda7 at 2025-07-15 00:19:20
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:19:30
+[ERROR] Server 7 started at 2025-07-15 00:19:40
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:19:50
+[WARN] Server 7 restarted at 2025-07-15 00:20:00
+[DEBUG] User niaj performed system health check at 2025-07-15 00:20:10
+[INFO] Backup started at 2025-07-15 00:20:20
+[INFO] User peggy logged in at 2025-07-15 00:20:30
+[WARN] Server 7 updated configuration at 2025-07-15 00:20:40
+[INFO] Server 7 heartbeat OK at 2025-07-15 00:20:50
+[ERROR] User walter imported data.csv at 2025-07-15 00:21:00
+[ERROR] Server 7 started at 2025-07-15 00:21:10
+[WARN] High CPU usage detected at 2025-07-15 00:21:20
+[WARN] Server 7 updated configuration at 2025-07-15 00:21:30
+[INFO] User carol imported data.csv at 2025-07-15 00:21:40
+[INFO] Backup started at 2025-07-15 00:21:50
+[DEBUG] Server 7 shutdown at 2025-07-15 00:22:00
+[WARN] High CPU usage detected at 2025-07-15 00:22:10
+[WARN] Server 7 completed log rotation at 2025-07-15 00:22:20
+[INFO] User rupert failed login attempt at 2025-07-15 00:22:30
+[DEBUG] Server 7 shutdown at 2025-07-15 00:22:40
+[ERROR] User zach failed login attempt at 2025-07-15 00:22:50
+[ERROR] User alice imported data.csv at 2025-07-15 00:23:00
+[INFO] Server 7 encountered memory leak at 2025-07-15 00:23:10
+[INFO] User judy accessed dashboard at 2025-07-15 00:23:20
+[ERROR] Server 7 shutdown at 2025-07-15 00:23:30
+[INFO] Server 7 received request from 10.0.0.7 at 2025-07-15 00:23:40
+[DEBUG] User victor uploaded file report.pdf at 2025-07-15 00:23:50
+[ERROR] User oscar logged out at 2025-07-15 00:24:00
+[ERROR] Server 7 encountered memory leak at 2025-07-15 00:24:10
+[INFO] Disk error on /dev/sda7 at 2025-07-15 00:24:20
+[WARN] Backup started at 2025-07-15 00:24:30
+[WARN] User eve updated profile at 2025-07-15 00:24:40
+[INFO] User walter accessed dashboard at 2025-07-15 00:24:50
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='heidi' at 2025-07-15 00:25:00
+[DEBUG] User grace deleted file temp.tmp at 2025-07-15 00:25:10
+[INFO] Query executed: SELECT * FROM logs WHERE user='zach' at 2025-07-15 00:25:20
+[WARN] User mallory imported data.csv at 2025-07-15 00:25:30
+[ERROR] Backup completed at 2025-07-15 00:25:40
+[INFO] Server 7 restarted at 2025-07-15 00:25:50
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='niaj' at 2025-07-15 00:26:00
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:26:10
+[INFO] Query executed: SELECT * FROM logs WHERE user='victor' at 2025-07-15 00:26:20
+[DEBUG] Backup completed at 2025-07-15 00:26:30
+[INFO] Query executed: SELECT * FROM logs WHERE user='eve' at 2025-07-15 00:26:40
+[DEBUG] User carol uploaded file report.pdf at 2025-07-15 00:26:50
+[ERROR] Server 7 heartbeat OK at 2025-07-15 00:27:00
+[DEBUG] User judy logged in at 2025-07-15 00:27:10
+[ERROR] User carol logged in at 2025-07-15 00:27:20
+[ERROR] User alice changed password at 2025-07-15 00:27:30
+[DEBUG] User frank imported data.csv at 2025-07-15 00:27:40
+[ERROR] User yvonne logged in at 2025-07-15 00:27:50
+[DEBUG] User bob accessed dashboard at 2025-07-15 00:28:00
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:28:10
+[INFO] User judy accessed dashboard at 2025-07-15 00:28:20
+[DEBUG] User carol accessed dashboard at 2025-07-15 00:28:30
+[DEBUG] Server 7 encountered memory leak at 2025-07-15 00:28:40
+[INFO] User mallory logged in at 2025-07-15 00:28:50
+[ERROR] User rupert imported data.csv at 2025-07-15 00:29:00
+[ERROR] User zach initiated data export at 2025-07-15 00:29:10
+[DEBUG] User rupert imported data.csv at 2025-07-15 00:29:20
+[ERROR] Server 7 shutdown at 2025-07-15 00:29:30
+[WARN] Server 7 restarted at 2025-07-15 00:29:40
+[ERROR] User walter updated profile at 2025-07-15 00:29:50
+[WARN] Server 7 encountered memory leak at 2025-07-15 00:30:00
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:30:10
+[WARN] Server 7 received request from 10.0.0.102 at 2025-07-15 00:30:20
+[DEBUG] Disk error on /dev/sda7 at 2025-07-15 00:30:30
+[INFO] User victor logged in at 2025-07-15 00:30:40
+[DEBUG] User walter performed system health check at 2025-07-15 00:30:50
+[WARN] User heidi logged out at 2025-07-15 00:31:00
+[DEBUG] Server 7 restarted at 2025-07-15 00:31:10
+[ERROR] Server 7 completed log rotation at 2025-07-15 00:31:20
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='trent' at 2025-07-15 00:31:30
+[WARN] Server 7 restarted at 2025-07-15 00:31:40
+[ERROR] Backup completed at 2025-07-15 00:31:50
+[INFO] Server 7 heartbeat OK at 2025-07-15 00:32:00
+[INFO] Disk error on /dev/sda7 at 2025-07-15 00:32:10
+[WARN] Backup completed at 2025-07-15 00:32:20
+[ERROR] High CPU usage detected at 2025-07-15 00:32:30
+[DEBUG] User victor logged out at 2025-07-15 00:32:40
+[DEBUG] Server 7 restarted at 2025-07-15 00:32:50
+[INFO] Server 7 heartbeat OK at 2025-07-15 00:33:00
+[INFO] Server 7 encountered memory leak at 2025-07-15 00:33:10
+[DEBUG] User judy initiated data export at 2025-07-15 00:33:20
+[INFO] Server 7 shutdown at 2025-07-15 00:33:30
+[INFO] Server 7 received request from 10.0.0.13 at 2025-07-15 00:33:40
+[ERROR] Server 7 completed log rotation at 2025-07-15 00:33:50
+[INFO] User judy updated profile at 2025-07-15 00:34:00
+[ERROR] User dave changed password at 2025-07-15 00:34:10
+[WARN] User frank failed login attempt at 2025-07-15 00:34:20
+[INFO] User carol triggered security alert at 2025-07-15 00:34:30
+[INFO] Server 7 encountered memory leak at 2025-07-15 00:34:40
+[INFO] Query executed: SELECT * FROM logs WHERE user='alice' at 2025-07-15 00:34:50
+[INFO] User victor accessed dashboard at 2025-07-15 00:35:00
+[INFO] Server 7 restarted at 2025-07-15 00:35:10
+[ERROR] User grace failed login attempt at 2025-07-15 00:35:20
+[ERROR] Server 7 started at 2025-07-15 00:35:30
+[ERROR] User eve uploaded file report.pdf at 2025-07-15 00:35:40
+[ERROR] User walter updated profile at 2025-07-15 00:35:50
+[DEBUG] User walter failed login attempt at 2025-07-15 00:36:00
+[WARN] User frank failed login attempt at 2025-07-15 00:36:10
+[INFO] Server 7 started at 2025-07-15 00:36:20
+[ERROR] Server 7 completed log rotation at 2025-07-15 00:36:30
+[INFO] Server 7 heartbeat OK at 2025-07-15 00:36:40
+[WARN] Server 7 updated configuration at 2025-07-15 00:36:50
+[DEBUG] User rupert initiated data export at 2025-07-15 00:37:00
+[INFO] User judy deleted file temp.tmp at 2025-07-15 00:37:10
+[WARN] Backup started at 2025-07-15 00:37:20
+[WARN] Server 7 shutdown at 2025-07-15 00:37:30
+[INFO] User yvonne accessed dashboard at 2025-07-15 00:37:40
+[WARN] Query executed: SELECT * FROM logs WHERE user='frank' at 2025-07-15 00:37:50
+[ERROR] Server 7 updated configuration at 2025-07-15 00:38:00
+[INFO] Backup started at 2025-07-15 00:38:10
+[WARN] Server 7 updated configuration at 2025-07-15 00:38:20
+[WARN] Server 7 shutdown at 2025-07-15 00:38:30
+[ERROR] Server 7 updated configuration at 2025-07-15 00:38:40
+[WARN] Server 7 updated configuration at 2025-07-15 00:38:50
+[INFO] User bob triggered security alert at 2025-07-15 00:39:00
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='rupert' at 2025-07-15 00:39:10
+[ERROR] User frank updated profile at 2025-07-15 00:39:20
+[WARN] High CPU usage detected at 2025-07-15 00:39:30
+[WARN] Server 7 restarted at 2025-07-15 00:39:40
+[INFO] Server 7 encountered memory leak at 2025-07-15 00:39:50
+[INFO] User judy triggered security alert at 2025-07-15 00:40:00
+[ERROR] High CPU usage detected at 2025-07-15 00:40:10
+[WARN] Server 7 heartbeat OK at 2025-07-15 00:40:20
+[DEBUG] User judy accessed dashboard at 2025-07-15 00:40:30
+[ERROR] Server 7 shutdown at 2025-07-15 00:40:40
+[WARN] Server 7 received request from 10.0.0.139 at 2025-07-15 00:40:50
+[ERROR] User oscar performed system health check at 2025-07-15 00:41:00
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:41:10
+[DEBUG] User mallory deleted file temp.tmp at 2025-07-15 00:41:20
+[INFO] Query executed: SELECT * FROM logs WHERE user='mallory' at 2025-07-15 00:41:30
+[ERROR] User zach accessed dashboard at 2025-07-15 00:41:40
+[ERROR] Server 7 updated configuration at 2025-07-15 00:41:50
+[ERROR] Server 7 encountered memory leak at 2025-07-15 00:42:00
+[DEBUG] User eve changed password at 2025-07-15 00:42:10
+[DEBUG] User rupert uploaded file report.pdf at 2025-07-15 00:42:20
+[DEBUG] Disk error on /dev/sda7 at 2025-07-15 00:42:30
+[WARN] Server 7 encountered memory leak at 2025-07-15 00:42:40
+[DEBUG] User carol uploaded file report.pdf at 2025-07-15 00:42:50
+[ERROR] Server 7 encountered memory leak at 2025-07-15 00:43:00
+[ERROR] User eve logged in at 2025-07-15 00:43:10
+[DEBUG] User niaj updated profile at 2025-07-15 00:43:20
+[DEBUG] User carol logged in at 2025-07-15 00:43:30
+[INFO] User bob initiated data export at 2025-07-15 00:43:40
+[DEBUG] User sybil uploaded file report.pdf at 2025-07-15 00:43:50
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:44:00
+[ERROR] Backup completed at 2025-07-15 00:44:10
+[DEBUG] Server 7 shutdown at 2025-07-15 00:44:20
+[WARN] User rupert failed login attempt at 2025-07-15 00:44:30
+[DEBUG] User bob deleted file temp.tmp at 2025-07-15 00:44:40
+[DEBUG] User walter imported data.csv at 2025-07-15 00:44:50
+[ERROR] User victor uploaded file report.pdf at 2025-07-15 00:45:00
+[INFO] User eve logged in at 2025-07-15 00:45:10
+[DEBUG] Server 7 started at 2025-07-15 00:45:20
+[DEBUG] Backup started at 2025-07-15 00:45:30
+[ERROR] Query executed: SELECT * FROM logs WHERE user='grace' at 2025-07-15 00:45:40
+[INFO] Server 7 updated configuration at 2025-07-15 00:45:50
+[WARN] Disk error on /dev/sda7 at 2025-07-15 00:46:00
+[ERROR] Server 7 restarted at 2025-07-15 00:46:10
+[INFO] Server 7 shutdown at 2025-07-15 00:46:20
+[WARN] User zach updated profile at 2025-07-15 00:46:30
+[WARN] Server 7 heartbeat OK at 2025-07-15 00:46:40
+[DEBUG] High CPU usage detected at 2025-07-15 00:46:50
+[WARN] Query executed: SELECT * FROM logs WHERE user='heidi' at 2025-07-15 00:47:00
+[INFO] Server 7 restarted at 2025-07-15 00:47:10
+[ERROR] Server 7 restarted at 2025-07-15 00:47:20
+[WARN] Backup completed at 2025-07-15 00:47:30
+[INFO] User oscar accessed dashboard at 2025-07-15 00:47:40
+[WARN] User yvonne accessed dashboard at 2025-07-15 00:47:50
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:48:00
+[ERROR] Backup completed at 2025-07-15 00:48:10
+[WARN] Server 7 started at 2025-07-15 00:48:20
+[INFO] Server 7 started at 2025-07-15 00:48:30
+[ERROR] Server 7 shutdown at 2025-07-15 00:48:40
+[ERROR] Backup completed at 2025-07-15 00:48:50
+[DEBUG] Server 7 completed log rotation at 2025-07-15 00:49:00
+[ERROR] Server 7 encountered memory leak at 2025-07-15 00:49:10
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:49:20
+[INFO] Server 7 encountered memory leak at 2025-07-15 00:49:30
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:49:40
+[INFO] Server 7 started at 2025-07-15 00:49:50
+[ERROR] User yvonne accessed dashboard at 2025-07-15 00:50:00
+[INFO] Server 7 received request from 10.0.0.96 at 2025-07-15 00:50:10
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:50:20
+[ERROR] Server 7 shutdown at 2025-07-15 00:50:30
+[DEBUG] Server 7 encountered memory leak at 2025-07-15 00:50:40
+[WARN] Server 7 completed log rotation at 2025-07-15 00:50:50
+[DEBUG] Server 7 started at 2025-07-15 00:51:00
+[WARN] User heidi accessed dashboard at 2025-07-15 00:51:10
+[WARN] Server 7 received request from 10.0.0.136 at 2025-07-15 00:51:20
+[ERROR] User yvonne logged in at 2025-07-15 00:51:30
+[INFO] Server 7 updated configuration at 2025-07-15 00:51:40
+[INFO] User walter performed system health check at 2025-07-15 00:51:50
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='carol' at 2025-07-15 00:52:00
+[WARN] Server 7 shutdown at 2025-07-15 00:52:10
+[DEBUG] Server 7 updated configuration at 2025-07-15 00:52:20
+[ERROR] Backup completed at 2025-07-15 00:52:30
+[INFO] User ivan logged out at 2025-07-15 00:52:40
+[ERROR] Backup completed at 2025-07-15 00:52:50
+[DEBUG] User judy changed password at 2025-07-15 00:53:00
+[ERROR] User ivan initiated data export at 2025-07-15 00:53:10
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:53:20
+[ERROR] User walter uploaded file report.pdf at 2025-07-15 00:53:30
+[INFO] Query executed: SELECT * FROM logs WHERE user='ivan' at 2025-07-15 00:53:40
+[DEBUG] Backup completed at 2025-07-15 00:53:50
+[ERROR] Server 7 encountered memory leak at 2025-07-15 00:54:00
+[INFO] Server 7 completed log rotation at 2025-07-15 00:54:10
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:54:20
+[DEBUG] User oscar failed login attempt at 2025-07-15 00:54:30
+[INFO] Server 7 received request from 10.0.0.223 at 2025-07-15 00:54:40
+[DEBUG] User alice updated profile at 2025-07-15 00:54:50
+[WARN] Backup started at 2025-07-15 00:55:00
+[DEBUG] Server 7 shutdown at 2025-07-15 00:55:10
+[INFO] User alice logged out at 2025-07-15 00:55:20
+[INFO] Server 7 restarted at 2025-07-15 00:55:30
+[DEBUG] User dave performed system health check at 2025-07-15 00:55:40
+[WARN] User dave logged out at 2025-07-15 00:55:50
+[DEBUG] Server 7 heartbeat OK at 2025-07-15 00:56:00
+[ERROR] User dave failed login attempt at 2025-07-15 00:56:10
+[WARN] High CPU usage detected at 2025-07-15 00:56:20
+[ERROR] User oscar changed password at 2025-07-15 00:56:30
+[INFO] User dave deleted file temp.tmp at 2025-07-15 00:56:40
+[WARN] User oscar triggered security alert at 2025-07-15 00:56:50
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 00:57:00
+[ERROR] User eve logged out at 2025-07-15 00:57:10
+[INFO] User niaj updated profile at 2025-07-15 00:57:20
+[ERROR] User oscar imported data.csv at 2025-07-15 00:57:30
+[INFO] Server 7 restarted at 2025-07-15 00:57:40
+[INFO] Server 7 shutdown at 2025-07-15 00:57:50
+[WARN] User judy uploaded file report.pdf at 2025-07-15 00:58:00
+[WARN] Server 7 received request from 10.0.0.133 at 2025-07-15 00:58:10
+[DEBUG] User victor changed password at 2025-07-15 00:58:20
+[INFO] Backup completed at 2025-07-15 00:58:30
+[WARN] User zach updated profile at 2025-07-15 00:58:40
+[DEBUG] Server 7 encountered memory leak at 2025-07-15 00:58:50
+[ERROR] User trent updated profile at 2025-07-15 00:59:00
+[INFO] User trent updated profile at 2025-07-15 00:59:10
+[ERROR] User ivan accessed dashboard at 2025-07-15 00:59:20
+[WARN] User rupert updated profile at 2025-07-15 00:59:30
+[WARN] Backup started at 2025-07-15 00:59:40
+[DEBUG] Server 7 encountered memory leak at 2025-07-15 00:59:50
+[DEBUG] High CPU usage detected at 2025-07-15 01:00:00
+[DEBUG] User carol triggered security alert at 2025-07-15 01:00:10
+[ERROR] User sybil initiated data export at 2025-07-15 01:00:20
+[WARN] Backup completed at 2025-07-15 01:00:30
+[DEBUG] Server 7 completed log rotation at 2025-07-15 01:00:40
+[INFO] High CPU usage detected at 2025-07-15 01:00:50
+[DEBUG] Server 7 started at 2025-07-15 01:01:00
+[INFO] User victor triggered security alert at 2025-07-15 01:01:10
+[WARN] Server 7 started at 2025-07-15 01:01:20
+[ERROR] Server 7 started at 2025-07-15 01:01:30
+[DEBUG] User bob performed system health check at 2025-07-15 01:01:40
+[WARN] User rupert failed login attempt at 2025-07-15 01:01:50
+[ERROR] Backup started at 2025-07-15 01:02:00
+[WARN] Backup started at 2025-07-15 01:02:10
+[INFO] Server 7 restarted at 2025-07-15 01:02:20
+[DEBUG] User niaj initiated data export at 2025-07-15 01:02:30
+[ERROR] User grace logged in at 2025-07-15 01:02:40
+[DEBUG] High CPU usage detected at 2025-07-15 01:02:50
+[ERROR] Server 7 completed log rotation at 2025-07-15 01:03:00
+[WARN] User alice changed password at 2025-07-15 01:03:10
+[WARN] Server 7 started at 2025-07-15 01:03:20
+[DEBUG] User oscar imported data.csv at 2025-07-15 01:03:30
+[WARN] Server 7 updated configuration at 2025-07-15 01:03:40
+[ERROR] Server 7 heartbeat OK at 2025-07-15 01:03:50
+[INFO] User bob initiated data export at 2025-07-15 01:04:00
+[DEBUG] Server 7 restarted at 2025-07-15 01:04:10
+[DEBUG] User bob changed password at 2025-07-15 01:04:20
+[WARN] Server 7 updated configuration at 2025-07-15 01:04:30
+[ERROR] Server 7 heartbeat OK at 2025-07-15 01:04:40
+[DEBUG] Server 7 encountered memory leak at 2025-07-15 01:04:50
+[ERROR] Disk error on /dev/sda7 at 2025-07-15 01:05:00
+[DEBUG] User peggy failed login attempt at 2025-07-15 01:05:10
+[WARN] User bob logged in at 2025-07-15 01:05:20
+[INFO] Server 7 completed log rotation at 2025-07-15 01:05:30
+[INFO] Server 7 restarted at 2025-07-15 01:05:40
+[ERROR] Query executed: SELECT * FROM logs WHERE user='dave' at 2025-07-15 01:05:50
+[INFO] Backup completed at 2025-07-15 01:06:00
+[DEBUG] Backup completed at 2025-07-15 01:06:10
+[DEBUG] User alice logged out at 2025-07-15 01:06:20
+[ERROR] User ivan logged in at 2025-07-15 01:06:30
+[ERROR] User niaj failed login attempt at 2025-07-15 01:06:40
+[WARN] Server 7 started at 2025-07-15 01:06:50
+[ERROR] High CPU usage detected at 2025-07-15 01:07:00
+[INFO] Server 7 completed log rotation at 2025-07-15 01:07:10
+[ERROR] Server 7 received request from 10.0.0.245 at 2025-07-15 01:07:20
+[INFO] Backup started at 2025-07-15 01:07:30
+[WARN] User peggy accessed dashboard at 2025-07-15 01:07:40
+[DEBUG] User niaj performed system health check at 2025-07-15 01:07:50
+[ERROR] User mallory logged in at 2025-07-15 01:08:00
+[DEBUG] Server 7 started at 2025-07-15 01:08:10
+[WARN] Backup completed at 2025-07-15 01:08:20
+[INFO] Disk error on /dev/sda7 at 2025-07-15 01:08:30
+[ERROR] User victor logged in at 2025-07-15 01:08:40
+[WARN] Server 7 updated configuration at 2025-07-15 01:08:50
+[WARN] User mallory logged out at 2025-07-15 01:09:00
+[ERROR] User victor logged out at 2025-07-15 01:09:10
+[ERROR] User peggy logged in at 2025-07-15 01:09:20
+[WARN] Server 7 encountered memory leak at 2025-07-15 01:09:30
+[INFO] Server 7 restarted at 2025-07-15 01:09:40
+[ERROR] User frank imported data.csv at 2025-07-15 01:09:50
+[ERROR] User dave initiated data export at 2025-07-15 01:10:00
+[DEBUG] User frank initiated data export at 2025-07-15 01:10:10
+[WARN] Server 7 updated configuration at 2025-07-15 01:10:20
+[WARN] User victor logged in at 2025-07-15 01:10:30
+[ERROR] User judy triggered security alert at 2025-07-15 01:10:40
+[DEBUG] User sybil changed password at 2025-07-15 01:10:50
+[INFO] User trent performed system health check at 2025-07-15 01:11:00
+[ERROR] User rupert uploaded file report.pdf at 2025-07-15 01:11:10
+[INFO] User judy imported data.csv at 2025-07-15 01:11:20
+[WARN] User oscar updated profile at 2025-07-15 01:11:30
+[ERROR] User carol accessed dashboard at 2025-07-15 01:11:40
+[DEBUG] Server 7 completed log rotation at 2025-07-15 01:11:50
+[WARN] User bob failed login attempt at 2025-07-15 01:12:00
+[ERROR] Server 7 completed log rotation at 2025-07-15 01:12:10
+[ERROR] User ivan updated profile at 2025-07-15 01:12:20
+[INFO] User ivan accessed dashboard at 2025-07-15 01:12:30
+[DEBUG] User oscar logged out at 2025-07-15 01:12:40
+[DEBUG] Server 7 restarted at 2025-07-15 01:12:50
+[ERROR] User grace performed system health check at 2025-07-15 01:13:00
+[ERROR] User sybil failed login attempt at 2025-07-15 01:13:10
+[INFO] Server 7 completed log rotation at 2025-07-15 01:13:20
+[ERROR] User judy accessed dashboard at 2025-07-15 01:13:30
+[INFO] User bob deleted file temp.tmp at 2025-07-15 01:13:40
+[DEBUG] User rupert performed system health check at 2025-07-15 01:13:50
+[WARN] User rupert triggered security alert at 2025-07-15 01:14:00
+[DEBUG] Server 7 completed log rotation at 2025-07-15 01:14:10
+[WARN] User walter triggered security alert at 2025-07-15 01:14:20
+[DEBUG] User eve updated profile at 2025-07-15 01:14:30
+[INFO] Server 7 encountered memory leak at 2025-07-15 01:14:40
+[INFO] Server 7 shutdown at 2025-07-15 01:14:50
+[DEBUG] Server 7 received request from 10.0.0.98 at 2025-07-15 01:15:00
+[WARN] User grace changed password at 2025-07-15 01:15:10
+[WARN] User mallory logged in at 2025-07-15 01:15:20
+[ERROR] User trent uploaded file report.pdf at 2025-07-15 01:15:30
+[WARN] Server 7 completed log rotation at 2025-07-15 01:15:40
+[INFO] User heidi deleted file temp.tmp at 2025-07-15 01:15:50
+[ERROR] User dave triggered security alert at 2025-07-15 01:16:00
+[ERROR] Server 7 encountered memory leak at 2025-07-15 01:16:10
+[ERROR] Server 7 shutdown at 2025-07-15 01:16:20
+[DEBUG] User peggy updated profile at 2025-07-15 01:16:30
+[WARN] User dave logged in at 2025-07-15 01:16:40
+[DEBUG] Disk error on /dev/sda7 at 2025-07-15 01:16:50
+[WARN] User alice updated profile at 2025-07-15 01:17:00
+[DEBUG] User victor failed login attempt at 2025-07-15 01:17:10
+[WARN] User sybil performed system health check at 2025-07-15 01:17:20
+[INFO] User peggy accessed dashboard at 2025-07-15 01:17:30
+[ERROR] User carol triggered security alert at 2025-07-15 01:17:40
+[ERROR] Server 7 heartbeat OK at 2025-07-15 01:17:50
+[ERROR] User bob deleted file temp.tmp at 2025-07-15 01:18:00
+[WARN] Server 7 encountered memory leak at 2025-07-15 01:18:10
+[INFO] User bob failed login attempt at 2025-07-15 01:18:20
+[ERROR] User sybil uploaded file report.pdf at 2025-07-15 01:18:30
+[ERROR] Server 7 started at 2025-07-15 01:18:40
+[INFO] User bob changed password at 2025-07-15 01:18:50
+[ERROR] Server 7 shutdown at 2025-07-15 01:19:00
+[DEBUG] User carol failed login attempt at 2025-07-15 01:19:10
+[DEBUG] Backup completed at 2025-07-15 01:19:20
+[INFO] User ivan failed login attempt at 2025-07-15 01:19:30
+[INFO] User ivan logged in at 2025-07-15 01:19:40
+[ERROR] User victor performed system health check at 2025-07-15 01:19:50
+[ERROR] Server 7 heartbeat OK at 2025-07-15 01:20:00
+[ERROR] Server 7 encountered memory leak at 2025-07-15 01:20:10
+[DEBUG] Server 7 started at 2025-07-15 01:20:20
+[ERROR] Server 7 shutdown at 2025-07-15 01:20:30
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='dave' at 2025-07-15 01:20:40
+[WARN] Server 7 started at 2025-07-15 01:20:50
+[DEBUG] Server 7 completed log rotation at 2025-07-15 01:21:00
+[INFO] User peggy initiated data export at 2025-07-15 01:21:10
+[INFO] User dave imported data.csv at 2025-07-15 01:21:20
+[WARN] User niaj initiated data export at 2025-07-15 01:21:30
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='frank' at 2025-07-15 01:21:40
+[WARN] Server 7 encountered memory leak at 2025-07-15 01:21:50
+[WARN] Backup started at 2025-07-15 01:22:00
+[INFO] Server 7 heartbeat OK at 2025-07-15 01:22:10
+[INFO] User alice performed system health check at 2025-07-15 01:22:20
+[DEBUG] User grace failed login attempt at 2025-07-15 01:22:30
+[DEBUG] Server 7 updated configuration at 2025-07-15 01:22:40
+[WARN] High CPU usage detected at 2025-07-15 01:22:50
+[ERROR] Server 7 restarted at 2025-07-15 01:23:00
+[DEBUG] User ivan logged out at 2025-07-15 01:23:10

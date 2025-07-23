@@ -1,0 +1,44 @@
+version: '3'
+services:
+  server1:
+    image: myapp-image
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./log_files:/app/log_files
+  server2:
+    image: myapp-image
+    ports:
+      - "8082:8080"
+  server3:
+    image: myapp-image
+    ports:
+      - "8083:8080"
+  server4:
+    image: myapp-image
+    ports:
+      - "8084:8080"
+  server5:
+    image: myapp-image
+    ports:
+      - "8085:8080"
+  server6:
+    image: myapp-image
+    ports:
+      - "8086:8080"
+  server7:
+    image: myapp-image
+    ports:
+      - "8087:8080"
+  server8:
+    image: myapp-image
+    ports:
+      - "8088:8080"
+  server9:
+    image: myapp-image
+    ports:
+      - "8089:8080"
+  server10:
+    image: myapp-image
+    ports:
+      - "8090:8080"

@@ -1,0 +1,9 @@
+# filepath: /Users/mcc4265/Personal/Distributed Log Querier/Dockerfile.client
+FROM golang:1.16
+WORKDIR /app
+COPY go.mod ./
+COPY ./result_files ./result_files
+COPY app/ ./app/
+COPY main.go ./main.go
+RUN go mod tidy
+CMD ["go", "run", "./main.go", "-d", "client"]

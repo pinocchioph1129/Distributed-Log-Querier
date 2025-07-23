@@ -1,0 +1,500 @@
+[WARN] Server 3 completed log rotation at 2025-07-15 00:00:00
+[ERROR] Server 3 received request from 10.0.0.42 at 2025-07-15 00:00:10
+[DEBUG] User rupert changed password at 2025-07-15 00:00:20
+[INFO] Server 3 restarted at 2025-07-15 00:00:30
+[ERROR] User victor initiated data export at 2025-07-15 00:00:40
+[ERROR] User victor imported data.csv at 2025-07-15 00:00:50
+[ERROR] User heidi triggered security alert at 2025-07-15 00:01:00
+[WARN] User carol logged in at 2025-07-15 00:01:10
+[DEBUG] User yvonne changed password at 2025-07-15 00:01:20
+[WARN] User frank imported data.csv at 2025-07-15 00:01:30
+[ERROR] User heidi logged out at 2025-07-15 00:01:40
+[WARN] High CPU usage detected at 2025-07-15 00:01:50
+[WARN] Server 3 heartbeat OK at 2025-07-15 00:02:00
+[INFO] User judy logged out at 2025-07-15 00:02:10
+[INFO] Backup completed at 2025-07-15 00:02:20
+[INFO] Server 3 restarted at 2025-07-15 00:02:30
+[INFO] High CPU usage detected at 2025-07-15 00:02:40
+[DEBUG] User eve performed system health check at 2025-07-15 00:02:50
+[WARN] Query executed: SELECT * FROM logs WHERE user='zach' at 2025-07-15 00:03:00
+[ERROR] User yvonne performed system health check at 2025-07-15 00:03:10
+[DEBUG] Server 3 updated configuration at 2025-07-15 00:03:20
+[WARN] User peggy imported data.csv at 2025-07-15 00:03:30
+[ERROR] User carol imported data.csv at 2025-07-15 00:03:40
+[DEBUG] Server 3 encountered memory leak at 2025-07-15 00:03:50
+[ERROR] User frank triggered security alert at 2025-07-15 00:04:00
+[DEBUG] User trent imported data.csv at 2025-07-15 00:04:10
+[INFO] Server 3 updated configuration at 2025-07-15 00:04:20
+[ERROR] User walter performed system health check at 2025-07-15 00:04:30
+[INFO] High CPU usage detected at 2025-07-15 00:04:40
+[INFO] User ivan changed password at 2025-07-15 00:04:50
+[DEBUG] Backup completed at 2025-07-15 00:05:00
+[DEBUG] User sybil triggered security alert at 2025-07-15 00:05:10
+[WARN] User peggy accessed dashboard at 2025-07-15 00:05:20
+[INFO] User peggy imported data.csv at 2025-07-15 00:05:30
+[DEBUG] Server 3 updated configuration at 2025-07-15 00:05:40
+[ERROR] Backup started at 2025-07-15 00:05:50
+[DEBUG] Backup started at 2025-07-15 00:06:00
+[WARN] User dave deleted file temp.tmp at 2025-07-15 00:06:10
+[DEBUG] User niaj imported data.csv at 2025-07-15 00:06:20
+[ERROR] Server 3 updated configuration at 2025-07-15 00:06:30
+[ERROR] User dave triggered security alert at 2025-07-15 00:06:40
+[WARN] Server 3 started at 2025-07-15 00:06:50
+[ERROR] User ivan logged out at 2025-07-15 00:07:00
+[ERROR] Server 3 restarted at 2025-07-15 00:07:10
+[DEBUG] User heidi deleted file temp.tmp at 2025-07-15 00:07:20
+[INFO] User niaj performed system health check at 2025-07-15 00:07:30
+[WARN] User sybil logged in at 2025-07-15 00:07:40
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:07:50
+[ERROR] Server 3 restarted at 2025-07-15 00:08:00
+[INFO] User zach accessed dashboard at 2025-07-15 00:08:10
+[DEBUG] User alice logged out at 2025-07-15 00:08:20
+[ERROR] Server 3 encountered memory leak at 2025-07-15 00:08:30
+[WARN] Backup completed at 2025-07-15 00:08:40
+[WARN] User grace deleted file temp.tmp at 2025-07-15 00:08:50
+[WARN] User dave logged in at 2025-07-15 00:09:00
+[WARN] High CPU usage detected at 2025-07-15 00:09:10
+[ERROR] User mallory uploaded file report.pdf at 2025-07-15 00:09:20
+[DEBUG] Server 3 completed log rotation at 2025-07-15 00:09:30
+[WARN] User dave updated profile at 2025-07-15 00:09:40
+[ERROR] Server 3 shutdown at 2025-07-15 00:09:50
+[INFO] User peggy logged out at 2025-07-15 00:10:00
+[INFO] High CPU usage detected at 2025-07-15 00:10:10
+[DEBUG] Server 3 heartbeat OK at 2025-07-15 00:10:20
+[DEBUG] Server 3 updated configuration at 2025-07-15 00:10:30
+[ERROR] User peggy triggered security alert at 2025-07-15 00:10:40
+[WARN] Server 3 heartbeat OK at 2025-07-15 00:10:50
+[INFO] Server 3 received request from 10.0.0.121 at 2025-07-15 00:11:00
+[WARN] Server 3 started at 2025-07-15 00:11:10
+[WARN] Server 3 updated configuration at 2025-07-15 00:11:20
+[INFO] User carol deleted file temp.tmp at 2025-07-15 00:11:30
+[INFO] User dave deleted file temp.tmp at 2025-07-15 00:11:40
+[INFO] User sybil logged in at 2025-07-15 00:11:50
+[DEBUG] Server 3 shutdown at 2025-07-15 00:12:00
+[DEBUG] User oscar logged out at 2025-07-15 00:12:10
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:12:20
+[DEBUG] Disk error on /dev/sda3 at 2025-07-15 00:12:30
+[ERROR] Disk error on /dev/sda3 at 2025-07-15 00:12:40
+[ERROR] Server 3 updated configuration at 2025-07-15 00:12:50
+[INFO] Query executed: SELECT * FROM logs WHERE user='alice' at 2025-07-15 00:13:00
+[WARN] Backup started at 2025-07-15 00:13:10
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:13:20
+[ERROR] Server 3 updated configuration at 2025-07-15 00:13:30
+[INFO] User eve performed system health check at 2025-07-15 00:13:40
+[WARN] User sybil initiated data export at 2025-07-15 00:13:50
+[INFO] Server 3 shutdown at 2025-07-15 00:14:00
+[INFO] Server 3 shutdown at 2025-07-15 00:14:10
+[DEBUG] User carol imported data.csv at 2025-07-15 00:14:20
+[ERROR] User walter deleted file temp.tmp at 2025-07-15 00:14:30
+[DEBUG] User victor imported data.csv at 2025-07-15 00:14:40
+[INFO] User victor accessed dashboard at 2025-07-15 00:14:50
+[DEBUG] User walter logged in at 2025-07-15 00:15:00
+[ERROR] User mallory performed system health check at 2025-07-15 00:15:10
+[DEBUG] Server 3 encountered memory leak at 2025-07-15 00:15:20
+[INFO] User bob updated profile at 2025-07-15 00:15:30
+[DEBUG] Backup completed at 2025-07-15 00:15:40
+[INFO] User carol failed login attempt at 2025-07-15 00:15:50
+[WARN] Server 3 received request from 10.0.0.193 at 2025-07-15 00:16:00
+[WARN] Backup started at 2025-07-15 00:16:10
+[WARN] User peggy failed login attempt at 2025-07-15 00:16:20
+[DEBUG] Server 3 received request from 10.0.0.153 at 2025-07-15 00:16:30
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:16:40
+[INFO] User rupert imported data.csv at 2025-07-15 00:16:50
+[INFO] Server 3 received request from 10.0.0.35 at 2025-07-15 00:17:00
+[DEBUG] High CPU usage detected at 2025-07-15 00:17:10
+[DEBUG] User trent triggered security alert at 2025-07-15 00:17:20
+[WARN] Backup started at 2025-07-15 00:17:30
+[DEBUG] Backup completed at 2025-07-15 00:17:40
+[WARN] Backup completed at 2025-07-15 00:17:50
+[WARN] Server 3 started at 2025-07-15 00:18:00
+[INFO] Server 3 heartbeat OK at 2025-07-15 00:18:10
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='alice' at 2025-07-15 00:18:20
+[DEBUG] Server 3 received request from 10.0.0.77 at 2025-07-15 00:18:30
+[ERROR] User peggy imported data.csv at 2025-07-15 00:18:40
+[INFO] User niaj initiated data export at 2025-07-15 00:18:50
+[WARN] User ivan accessed dashboard at 2025-07-15 00:19:00
+[DEBUG] Server 3 restarted at 2025-07-15 00:19:10
+[ERROR] User grace accessed dashboard at 2025-07-15 00:19:20
+[INFO] Server 3 shutdown at 2025-07-15 00:19:30
+[INFO] Backup completed at 2025-07-15 00:19:40
+[ERROR] Server 3 received request from 10.0.0.220 at 2025-07-15 00:19:50
+[WARN] Server 3 restarted at 2025-07-15 00:20:00
+[INFO] User mallory triggered security alert at 2025-07-15 00:20:10
+[WARN] User yvonne accessed dashboard at 2025-07-15 00:20:20
+[WARN] User alice updated profile at 2025-07-15 00:20:30
+[WARN] User dave accessed dashboard at 2025-07-15 00:20:40
+[WARN] User eve initiated data export at 2025-07-15 00:20:50
+[WARN] Server 3 updated configuration at 2025-07-15 00:21:00
+[DEBUG] User peggy uploaded file report.pdf at 2025-07-15 00:21:10
+[WARN] User walter accessed dashboard at 2025-07-15 00:21:20
+[INFO] User eve updated profile at 2025-07-15 00:21:30
+[ERROR] Backup started at 2025-07-15 00:21:40
+[ERROR] User rupert triggered security alert at 2025-07-15 00:21:50
+[INFO] User mallory performed system health check at 2025-07-15 00:22:00
+[DEBUG] Server 3 updated configuration at 2025-07-15 00:22:10
+[INFO] User peggy logged out at 2025-07-15 00:22:20
+[DEBUG] Server 3 heartbeat OK at 2025-07-15 00:22:30
+[INFO] User carol triggered security alert at 2025-07-15 00:22:40
+[ERROR] User judy performed system health check at 2025-07-15 00:22:50
+[INFO] High CPU usage detected at 2025-07-15 00:23:00
+[WARN] Server 3 started at 2025-07-15 00:23:10
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:23:20
+[INFO] User rupert logged in at 2025-07-15 00:23:30
+[INFO] User judy accessed dashboard at 2025-07-15 00:23:40
+[WARN] Server 3 shutdown at 2025-07-15 00:23:50
+[WARN] Backup started at 2025-07-15 00:24:00
+[DEBUG] User rupert triggered security alert at 2025-07-15 00:24:10
+[ERROR] Backup completed at 2025-07-15 00:24:20
+[ERROR] Disk error on /dev/sda3 at 2025-07-15 00:24:30
+[WARN] High CPU usage detected at 2025-07-15 00:24:40
+[INFO] User carol deleted file temp.tmp at 2025-07-15 00:24:50
+[WARN] User oscar failed login attempt at 2025-07-15 00:25:00
+[DEBUG] Server 3 started at 2025-07-15 00:25:10
+[ERROR] Server 3 encountered memory leak at 2025-07-15 00:25:20
+[WARN] High CPU usage detected at 2025-07-15 00:25:30
+[DEBUG] User alice imported data.csv at 2025-07-15 00:25:40
+[WARN] Query executed: SELECT * FROM logs WHERE user='ivan' at 2025-07-15 00:25:50
+[INFO] Server 3 encountered memory leak at 2025-07-15 00:26:00
+[WARN] Server 3 started at 2025-07-15 00:26:10
+[INFO] Server 3 restarted at 2025-07-15 00:26:20
+[DEBUG] Disk error on /dev/sda3 at 2025-07-15 00:26:30
+[DEBUG] Server 3 completed log rotation at 2025-07-15 00:26:40
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='grace' at 2025-07-15 00:26:50
+[INFO] Backup started at 2025-07-15 00:27:00
+[INFO] User niaj deleted file temp.tmp at 2025-07-15 00:27:10
+[WARN] User peggy triggered security alert at 2025-07-15 00:27:20
+[DEBUG] User bob logged in at 2025-07-15 00:27:30
+[DEBUG] User oscar initiated data export at 2025-07-15 00:27:40
+[WARN] User niaj updated profile at 2025-07-15 00:27:50
+[INFO] User bob triggered security alert at 2025-07-15 00:28:00
+[ERROR] Server 3 updated configuration at 2025-07-15 00:28:10
+[DEBUG] User ivan performed system health check at 2025-07-15 00:28:20
+[INFO] High CPU usage detected at 2025-07-15 00:28:30
+[DEBUG] User ivan failed login attempt at 2025-07-15 00:28:40
+[DEBUG] Server 3 completed log rotation at 2025-07-15 00:28:50
+[DEBUG] User mallory imported data.csv at 2025-07-15 00:29:00
+[WARN] User judy failed login attempt at 2025-07-15 00:29:10
+[INFO] User oscar triggered security alert at 2025-07-15 00:29:20
+[INFO] User mallory updated profile at 2025-07-15 00:29:30
+[INFO] Backup completed at 2025-07-15 00:29:40
+[WARN] Server 3 restarted at 2025-07-15 00:29:50
+[INFO] User ivan performed system health check at 2025-07-15 00:30:00
+[INFO] Backup completed at 2025-07-15 00:30:10
+[WARN] User carol initiated data export at 2025-07-15 00:30:20
+[DEBUG] User mallory changed password at 2025-07-15 00:30:30
+[WARN] User grace accessed dashboard at 2025-07-15 00:30:40
+[INFO] User grace deleted file temp.tmp at 2025-07-15 00:30:50
+[DEBUG] User grace logged out at 2025-07-15 00:31:00
+[DEBUG] User frank logged out at 2025-07-15 00:31:10
+[INFO] User heidi initiated data export at 2025-07-15 00:31:20
+[DEBUG] User alice logged in at 2025-07-15 00:31:30
+[INFO] User frank imported data.csv at 2025-07-15 00:31:40
+[WARN] Server 3 restarted at 2025-07-15 00:31:50
+[INFO] Server 3 started at 2025-07-15 00:32:00
+[ERROR] Server 3 received request from 10.0.0.13 at 2025-07-15 00:32:10
+[WARN] User alice deleted file temp.tmp at 2025-07-15 00:32:20
+[INFO] Server 3 completed log rotation at 2025-07-15 00:32:30
+[ERROR] User dave failed login attempt at 2025-07-15 00:32:40
+[DEBUG] User rupert logged in at 2025-07-15 00:32:50
+[INFO] User sybil logged out at 2025-07-15 00:33:00
+[DEBUG] Disk error on /dev/sda3 at 2025-07-15 00:33:10
+[INFO] User judy initiated data export at 2025-07-15 00:33:20
+[INFO] User grace initiated data export at 2025-07-15 00:33:30
+[ERROR] User niaj accessed dashboard at 2025-07-15 00:33:40
+[ERROR] User trent accessed dashboard at 2025-07-15 00:33:50
+[DEBUG] User peggy deleted file temp.tmp at 2025-07-15 00:34:00
+[DEBUG] User sybil logged in at 2025-07-15 00:34:10
+[WARN] Server 3 completed log rotation at 2025-07-15 00:34:20
+[ERROR] Backup started at 2025-07-15 00:34:30
+[WARN] User ivan accessed dashboard at 2025-07-15 00:34:40
+[INFO] Server 3 shutdown at 2025-07-15 00:34:50
+[DEBUG] User yvonne failed login attempt at 2025-07-15 00:35:00
+[WARN] User ivan imported data.csv at 2025-07-15 00:35:10
+[ERROR] Server 3 received request from 10.0.0.211 at 2025-07-15 00:35:20
+[ERROR] User sybil performed system health check at 2025-07-15 00:35:30
+[ERROR] Query executed: SELECT * FROM logs WHERE user='alice' at 2025-07-15 00:35:40
+[ERROR] User eve updated profile at 2025-07-15 00:35:50
+[DEBUG] User zach performed system health check at 2025-07-15 00:36:00
+[ERROR] User trent accessed dashboard at 2025-07-15 00:36:10
+[DEBUG] User heidi changed password at 2025-07-15 00:36:20
+[ERROR] Server 3 encountered memory leak at 2025-07-15 00:36:30
+[INFO] Backup completed at 2025-07-15 00:36:40
+[DEBUG] User alice logged in at 2025-07-15 00:36:50
+[WARN] User frank imported data.csv at 2025-07-15 00:37:00
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:37:10
+[WARN] User rupert imported data.csv at 2025-07-15 00:37:20
+[INFO] User trent initiated data export at 2025-07-15 00:37:30
+[DEBUG] User eve uploaded file report.pdf at 2025-07-15 00:37:40
+[DEBUG] User mallory performed system health check at 2025-07-15 00:37:50
+[ERROR] User alice imported data.csv at 2025-07-15 00:38:00
+[INFO] User sybil logged out at 2025-07-15 00:38:10
+[WARN] Disk error on /dev/sda3 at 2025-07-15 00:38:20
+[WARN] User frank updated profile at 2025-07-15 00:38:30
+[WARN] User mallory failed login attempt at 2025-07-15 00:38:40
+[WARN] Backup started at 2025-07-15 00:38:50
+[DEBUG] User yvonne logged out at 2025-07-15 00:39:00
+[INFO] User walter changed password at 2025-07-15 00:39:10
+[WARN] Backup started at 2025-07-15 00:39:20
+[WARN] Server 3 updated configuration at 2025-07-15 00:39:30
+[WARN] High CPU usage detected at 2025-07-15 00:39:40
+[DEBUG] User walter updated profile at 2025-07-15 00:39:50
+[DEBUG] User sybil triggered security alert at 2025-07-15 00:40:00
+[INFO] User oscar failed login attempt at 2025-07-15 00:40:10
+[ERROR] Server 3 shutdown at 2025-07-15 00:40:20
+[DEBUG] User rupert initiated data export at 2025-07-15 00:40:30
+[WARN] User alice logged out at 2025-07-15 00:40:40
+[INFO] User oscar imported data.csv at 2025-07-15 00:40:50
+[WARN] User oscar performed system health check at 2025-07-15 00:41:00
+[INFO] User heidi logged in at 2025-07-15 00:41:10
+[DEBUG] Server 3 encountered memory leak at 2025-07-15 00:41:20
+[DEBUG] Server 3 heartbeat OK at 2025-07-15 00:41:30
+[WARN] Server 3 started at 2025-07-15 00:41:40
+[INFO] User yvonne failed login attempt at 2025-07-15 00:41:50
+[DEBUG] High CPU usage detected at 2025-07-15 00:42:00
+[INFO] Server 3 updated configuration at 2025-07-15 00:42:10
+[INFO] User alice imported data.csv at 2025-07-15 00:42:20
+[ERROR] User carol changed password at 2025-07-15 00:42:30
+[ERROR] Server 3 started at 2025-07-15 00:42:40
+[INFO] Server 3 restarted at 2025-07-15 00:42:50
+[WARN] User walter uploaded file report.pdf at 2025-07-15 00:43:00
+[ERROR] Server 3 shutdown at 2025-07-15 00:43:10
+[INFO] Server 3 started at 2025-07-15 00:43:20
+[INFO] Backup completed at 2025-07-15 00:43:30
+[WARN] User peggy deleted file temp.tmp at 2025-07-15 00:43:40
+[WARN] User victor imported data.csv at 2025-07-15 00:43:50
+[DEBUG] High CPU usage detected at 2025-07-15 00:44:00
+[DEBUG] Server 3 shutdown at 2025-07-15 00:44:10
+[WARN] Server 3 completed log rotation at 2025-07-15 00:44:20
+[INFO] Query executed: SELECT * FROM logs WHERE user='dave' at 2025-07-15 00:44:30
+[DEBUG] Backup started at 2025-07-15 00:44:40
+[WARN] User mallory uploaded file report.pdf at 2025-07-15 00:44:50
+[ERROR] Query executed: SELECT * FROM logs WHERE user='judy' at 2025-07-15 00:45:00
+[WARN] User bob initiated data export at 2025-07-15 00:45:10
+[DEBUG] Backup started at 2025-07-15 00:45:20
+[INFO] Server 3 started at 2025-07-15 00:45:30
+[WARN] User ivan performed system health check at 2025-07-15 00:45:40
+[DEBUG] Server 3 encountered memory leak at 2025-07-15 00:45:50
+[ERROR] Server 3 updated configuration at 2025-07-15 00:46:00
+[ERROR] User judy initiated data export at 2025-07-15 00:46:10
+[WARN] Server 3 received request from 10.0.0.65 at 2025-07-15 00:46:20
+[WARN] User peggy changed password at 2025-07-15 00:46:30
+[INFO] User carol changed password at 2025-07-15 00:46:40
+[WARN] Backup started at 2025-07-15 00:46:50
+[ERROR] Query executed: SELECT * FROM logs WHERE user='dave' at 2025-07-15 00:47:00
+[ERROR] Server 3 restarted at 2025-07-15 00:47:10
+[ERROR] User dave accessed dashboard at 2025-07-15 00:47:20
+[ERROR] User bob uploaded file report.pdf at 2025-07-15 00:47:30
+[DEBUG] User alice imported data.csv at 2025-07-15 00:47:40
+[DEBUG] User judy triggered security alert at 2025-07-15 00:47:50
+[WARN] User heidi imported data.csv at 2025-07-15 00:48:00
+[INFO] Server 3 shutdown at 2025-07-15 00:48:10
+[INFO] Server 3 completed log rotation at 2025-07-15 00:48:20
+[ERROR] User trent logged in at 2025-07-15 00:48:30
+[ERROR] Backup completed at 2025-07-15 00:48:40
+[INFO] User oscar updated profile at 2025-07-15 00:48:50
+[DEBUG] User eve failed login attempt at 2025-07-15 00:49:00
+[WARN] Backup completed at 2025-07-15 00:49:10
+[ERROR] Backup completed at 2025-07-15 00:49:20
+[ERROR] Server 3 received request from 10.0.0.23 at 2025-07-15 00:49:30
+[DEBUG] User eve initiated data export at 2025-07-15 00:49:40
+[DEBUG] User walter accessed dashboard at 2025-07-15 00:49:50
+[DEBUG] High CPU usage detected at 2025-07-15 00:50:00
+[DEBUG] User judy changed password at 2025-07-15 00:50:10
+[WARN] Server 3 shutdown at 2025-07-15 00:50:20
+[ERROR] User frank triggered security alert at 2025-07-15 00:50:30
+[DEBUG] User ivan accessed dashboard at 2025-07-15 00:50:40
+[ERROR] User dave changed password at 2025-07-15 00:50:50
+[ERROR] Backup completed at 2025-07-15 00:51:00
+[ERROR] Server 3 completed log rotation at 2025-07-15 00:51:10
+[ERROR] Server 3 completed log rotation at 2025-07-15 00:51:20
+[INFO] Server 3 completed log rotation at 2025-07-15 00:51:30
+[ERROR] Query executed: SELECT * FROM logs WHERE user='yvonne' at 2025-07-15 00:51:40
+[WARN] User sybil triggered security alert at 2025-07-15 00:51:50
+[ERROR] Server 3 received request from 10.0.0.95 at 2025-07-15 00:52:00
+[ERROR] User alice logged out at 2025-07-15 00:52:10
+[WARN] User grace updated profile at 2025-07-15 00:52:20
+[WARN] User rupert logged out at 2025-07-15 00:52:30
+[INFO] User oscar deleted file temp.tmp at 2025-07-15 00:52:40
+[DEBUG] Server 3 encountered memory leak at 2025-07-15 00:52:50
+[DEBUG] Disk error on /dev/sda3 at 2025-07-15 00:53:00
+[INFO] Disk error on /dev/sda3 at 2025-07-15 00:53:10
+[WARN] User grace logged in at 2025-07-15 00:53:20
+[ERROR] User mallory changed password at 2025-07-15 00:53:30
+[DEBUG] User alice logged out at 2025-07-15 00:53:40
+[ERROR] User oscar accessed dashboard at 2025-07-15 00:53:50
+[WARN] User peggy imported data.csv at 2025-07-15 00:54:00
+[WARN] Server 3 encountered memory leak at 2025-07-15 00:54:10
+[INFO] High CPU usage detected at 2025-07-15 00:54:20
+[INFO] Server 3 encountered memory leak at 2025-07-15 00:54:30
+[ERROR] Backup started at 2025-07-15 00:54:40
+[WARN] User frank uploaded file report.pdf at 2025-07-15 00:54:50
+[WARN] User oscar logged out at 2025-07-15 00:55:00
+[WARN] User dave initiated data export at 2025-07-15 00:55:10
+[DEBUG] Server 3 restarted at 2025-07-15 00:55:20
+[INFO] Disk error on /dev/sda3 at 2025-07-15 00:55:30
+[DEBUG] User victor imported data.csv at 2025-07-15 00:55:40
+[DEBUG] User bob triggered security alert at 2025-07-15 00:55:50
+[DEBUG] Server 3 restarted at 2025-07-15 00:56:00
+[WARN] User yvonne uploaded file report.pdf at 2025-07-15 00:56:10
+[WARN] Server 3 restarted at 2025-07-15 00:56:20
+[ERROR] User mallory imported data.csv at 2025-07-15 00:56:30
+[DEBUG] Server 3 started at 2025-07-15 00:56:40
+[ERROR] User oscar updated profile at 2025-07-15 00:56:50
+[INFO] User walter accessed dashboard at 2025-07-15 00:57:00
+[INFO] Server 3 updated configuration at 2025-07-15 00:57:10
+[INFO] Server 3 encountered memory leak at 2025-07-15 00:57:20
+[DEBUG] User bob uploaded file report.pdf at 2025-07-15 00:57:30
+[WARN] User grace failed login attempt at 2025-07-15 00:57:40
+[DEBUG] Backup started at 2025-07-15 00:57:50
+[DEBUG] User victor changed password at 2025-07-15 00:58:00
+[INFO] Server 3 encountered memory leak at 2025-07-15 00:58:10
+[ERROR] User frank changed password at 2025-07-15 00:58:20
+[ERROR] Server 3 received request from 10.0.0.3 at 2025-07-15 00:58:30
+[ERROR] Backup completed at 2025-07-15 00:58:40
+[WARN] User yvonne triggered security alert at 2025-07-15 00:58:50
+[WARN] User heidi uploaded file report.pdf at 2025-07-15 00:59:00
+[INFO] User walter accessed dashboard at 2025-07-15 00:59:10
+[ERROR] User dave imported data.csv at 2025-07-15 00:59:20
+[INFO] User dave deleted file temp.tmp at 2025-07-15 00:59:30
+[DEBUG] Server 3 restarted at 2025-07-15 00:59:40
+[INFO] Server 3 restarted at 2025-07-15 00:59:50
+[WARN] Backup completed at 2025-07-15 01:00:00
+[ERROR] Server 3 encountered memory leak at 2025-07-15 01:00:10
+[ERROR] Server 3 updated configuration at 2025-07-15 01:00:20
+[ERROR] Server 3 received request from 10.0.0.80 at 2025-07-15 01:00:30
+[ERROR] User trent imported data.csv at 2025-07-15 01:00:40
+[ERROR] User oscar imported data.csv at 2025-07-15 01:00:50
+[DEBUG] User oscar uploaded file report.pdf at 2025-07-15 01:01:00
+[INFO] User grace performed system health check at 2025-07-15 01:01:10
+[ERROR] User ivan initiated data export at 2025-07-15 01:01:20
+[ERROR] Server 3 shutdown at 2025-07-15 01:01:30
+[ERROR] Server 3 shutdown at 2025-07-15 01:01:40
+[INFO] Server 3 started at 2025-07-15 01:01:50
+[INFO] Server 3 restarted at 2025-07-15 01:02:00
+[WARN] Server 3 updated configuration at 2025-07-15 01:02:10
+[DEBUG] Server 3 heartbeat OK at 2025-07-15 01:02:20
+[DEBUG] User niaj failed login attempt at 2025-07-15 01:02:30
+[ERROR] Query executed: SELECT * FROM logs WHERE user='oscar' at 2025-07-15 01:02:40
+[ERROR] Server 3 restarted at 2025-07-15 01:02:50
+[INFO] User peggy updated profile at 2025-07-15 01:03:00
+[ERROR] Server 3 updated configuration at 2025-07-15 01:03:10
+[WARN] User oscar initiated data export at 2025-07-15 01:03:20
+[WARN] High CPU usage detected at 2025-07-15 01:03:30
+[DEBUG] User ivan imported data.csv at 2025-07-15 01:03:40
+[DEBUG] Query executed: SELECT * FROM logs WHERE user='frank' at 2025-07-15 01:03:50
+[INFO] User ivan logged in at 2025-07-15 01:04:00
+[DEBUG] User grace accessed dashboard at 2025-07-15 01:04:10
+[ERROR] Server 3 received request from 10.0.0.86 at 2025-07-15 01:04:20
+[INFO] Server 3 received request from 10.0.0.2 at 2025-07-15 01:04:30
+[INFO] User mallory deleted file temp.tmp at 2025-07-15 01:04:40
+[WARN] User ivan updated profile at 2025-07-15 01:04:50
+[DEBUG] User frank updated profile at 2025-07-15 01:05:00
+[DEBUG] Server 3 restarted at 2025-07-15 01:05:10
+[INFO] Disk error on /dev/sda3 at 2025-07-15 01:05:20
+[INFO] High CPU usage detected at 2025-07-15 01:05:30
+[DEBUG] User mallory performed system health check at 2025-07-15 01:05:40
+[ERROR] User sybil accessed dashboard at 2025-07-15 01:05:50
+[ERROR] User eve imported data.csv at 2025-07-15 01:06:00
+[DEBUG] User niaj uploaded file report.pdf at 2025-07-15 01:06:10
+[INFO] High CPU usage detected at 2025-07-15 01:06:20
+[ERROR] Disk error on /dev/sda3 at 2025-07-15 01:06:30
+[ERROR] User oscar changed password at 2025-07-15 01:06:40
+[DEBUG] Server 3 encountered memory leak at 2025-07-15 01:06:50
+[WARN] User judy logged out at 2025-07-15 01:07:00
+[WARN] User frank deleted file temp.tmp at 2025-07-15 01:07:10
+[INFO] Query executed: SELECT * FROM logs WHERE user='mallory' at 2025-07-15 01:07:20
+[INFO] Server 3 received request from 10.0.0.97 at 2025-07-15 01:07:30
+[DEBUG] User eve initiated data export at 2025-07-15 01:07:40
+[ERROR] User alice changed password at 2025-07-15 01:07:50
+[INFO] Disk error on /dev/sda3 at 2025-07-15 01:08:00
+[DEBUG] User yvonne triggered security alert at 2025-07-15 01:08:10
+[ERROR] Server 3 heartbeat OK at 2025-07-15 01:08:20
+[INFO] Server 3 heartbeat OK at 2025-07-15 01:08:30
+[INFO] User bob logged out at 2025-07-15 01:08:40
+[WARN] User bob failed login attempt at 2025-07-15 01:08:50
+[ERROR] User rupert performed system health check at 2025-07-15 01:09:00
+[WARN] Server 3 heartbeat OK at 2025-07-15 01:09:10
+[DEBUG] User sybil initiated data export at 2025-07-15 01:09:20
+[INFO] Server 3 updated configuration at 2025-07-15 01:09:30
+[INFO] Server 3 encountered memory leak at 2025-07-15 01:09:40
+[INFO] Server 3 received request from 10.0.0.166 at 2025-07-15 01:09:50
+[DEBUG] Server 3 restarted at 2025-07-15 01:10:00
+[DEBUG] User walter deleted file temp.tmp at 2025-07-15 01:10:10
+[DEBUG] Server 3 updated configuration at 2025-07-15 01:10:20
+[INFO] Server 3 completed log rotation at 2025-07-15 01:10:30
+[DEBUG] User victor deleted file temp.tmp at 2025-07-15 01:10:40
+[DEBUG] Server 3 completed log rotation at 2025-07-15 01:10:50
+[ERROR] Server 3 encountered memory leak at 2025-07-15 01:11:00
+[INFO] Server 3 started at 2025-07-15 01:11:10
+[WARN] User alice changed password at 2025-07-15 01:11:20
+[WARN] Disk error on /dev/sda3 at 2025-07-15 01:11:30
+[DEBUG] User zach uploaded file report.pdf at 2025-07-15 01:11:40
+[INFO] User zach deleted file temp.tmp at 2025-07-15 01:11:50
+[ERROR] User heidi triggered security alert at 2025-07-15 01:12:00
+[INFO] Server 3 heartbeat OK at 2025-07-15 01:12:10
+[INFO] User yvonne performed system health check at 2025-07-15 01:12:20
+[ERROR] Query executed: SELECT * FROM logs WHERE user='bob' at 2025-07-15 01:12:30
+[DEBUG] User niaj deleted file temp.tmp at 2025-07-15 01:12:40
+[ERROR] User rupert failed login attempt at 2025-07-15 01:12:50
+[INFO] Server 3 started at 2025-07-15 01:13:00
+[DEBUG] User peggy updated profile at 2025-07-15 01:13:10
+[INFO] User peggy updated profile at 2025-07-15 01:13:20
+[INFO] User ivan logged out at 2025-07-15 01:13:30
+[DEBUG] User niaj imported data.csv at 2025-07-15 01:13:40
+[ERROR] User grace changed password at 2025-07-15 01:13:50
+[ERROR] User dave deleted file temp.tmp at 2025-07-15 01:14:00
+[ERROR] User ivan performed system health check at 2025-07-15 01:14:10
+[ERROR] User dave changed password at 2025-07-15 01:14:20
+[INFO] User yvonne logged in at 2025-07-15 01:14:30
+[WARN] Server 3 received request from 10.0.0.52 at 2025-07-15 01:14:40
+[WARN] Backup started at 2025-07-15 01:14:50
+[WARN] Server 3 updated configuration at 2025-07-15 01:15:00
+[INFO] Server 3 heartbeat OK at 2025-07-15 01:15:10
+[ERROR] User carol performed system health check at 2025-07-15 01:15:20
+[WARN] User zach initiated data export at 2025-07-15 01:15:30
+[INFO] Server 3 updated configuration at 2025-07-15 01:15:40
+[INFO] User dave accessed dashboard at 2025-07-15 01:15:50
+[INFO] User heidi deleted file temp.tmp at 2025-07-15 01:16:00
+[WARN] Backup started at 2025-07-15 01:16:10
+[ERROR] User ivan changed password at 2025-07-15 01:16:20
+[INFO] High CPU usage detected at 2025-07-15 01:16:30
+[DEBUG] Server 3 updated configuration at 2025-07-15 01:16:40
+[WARN] User niaj accessed dashboard at 2025-07-15 01:16:50
+[ERROR] Backup started at 2025-07-15 01:17:00
+[DEBUG] User sybil logged in at 2025-07-15 01:17:10
+[DEBUG] Server 3 started at 2025-07-15 01:17:20
+[DEBUG] User ivan accessed dashboard at 2025-07-15 01:17:30
+[DEBUG] User niaj changed password at 2025-07-15 01:17:40
+[DEBUG] User yvonne updated profile at 2025-07-15 01:17:50
+[WARN] Server 3 encountered memory leak at 2025-07-15 01:18:00
+[DEBUG] High CPU usage detected at 2025-07-15 01:18:10
+[DEBUG] Server 3 completed log rotation at 2025-07-15 01:18:20
+[ERROR] User heidi logged out at 2025-07-15 01:18:30
+[DEBUG] Server 3 restarted at 2025-07-15 01:18:40
+[INFO] User yvonne accessed dashboard at 2025-07-15 01:18:50
+[WARN] Backup started at 2025-07-15 01:19:00
+[DEBUG] User peggy failed login attempt at 2025-07-15 01:19:10
+[DEBUG] User victor performed system health check at 2025-07-15 01:19:20
+[INFO] Server 3 completed log rotation at 2025-07-15 01:19:30
+[DEBUG] User trent logged out at 2025-07-15 01:19:40
+[ERROR] User dave uploaded file report.pdf at 2025-07-15 01:19:50
+[INFO] User sybil triggered security alert at 2025-07-15 01:20:00
+[INFO] User victor performed system health check at 2025-07-15 01:20:10
+[DEBUG] Server 3 received request from 10.0.0.185 at 2025-07-15 01:20:20
+[INFO] User trent triggered security alert at 2025-07-15 01:20:30
+[INFO] Disk error on /dev/sda3 at 2025-07-15 01:20:40
+[INFO] Backup completed at 2025-07-15 01:20:50
+[WARN] User niaj logged in at 2025-07-15 01:21:00
+[ERROR] Server 3 received request from 10.0.0.188 at 2025-07-15 01:21:10
+[WARN] User carol logged out at 2025-07-15 01:21:20
+[INFO] Server 3 completed log rotation at 2025-07-15 01:21:30
+[DEBUG] Server 3 started at 2025-07-15 01:21:40
+[WARN] Server 3 restarted at 2025-07-15 01:21:50
+[DEBUG] User rupert performed system health check at 2025-07-15 01:22:00
+[ERROR] High CPU usage detected at 2025-07-15 01:22:10
+[DEBUG] User heidi failed login attempt at 2025-07-15 01:22:20
+[WARN] Server 3 received request from 10.0.0.29 at 2025-07-15 01:22:30
+[WARN] Query executed: SELECT * FROM logs WHERE user='yvonne' at 2025-07-15 01:22:40
+[WARN] Server 3 started at 2025-07-15 01:22:50
+[ERROR] User yvonne logged out at 2025-07-15 01:23:00
+[WARN] User ivan changed password at 2025-07-15 01:23:10

@@ -1,0 +1,10 @@
+FROM golang:1.16
+WORKDIR /app
+COPY go.mod ./
+COPY app/ ./app/
+COPY ./log_files ./log_files
+COPY ./result_files ./result_files
+COPY main.go ./main.go
+RUN go mod tidy
+EXPOSE 8080
+CMD ["go", "run", "./main.go", "-d", "server"]
